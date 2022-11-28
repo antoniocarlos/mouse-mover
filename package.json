@@ -1,0 +1,14 @@
+{
+  "name": "mouse_mover",
+  "version": "1.0.0",
+  "description": "A program to automate mouse moviment",
+  "main": "index.js",
+  "author": "Antonio Thiele",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
